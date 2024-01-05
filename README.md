@@ -11,11 +11,11 @@ This website will contain all that I have done and or learned during my time wit
 
 - Code 102
 
-  - Code 102 Reading Notes
+  - __Code 102 Reading Notes__
   
 - Code 201
 
-  - Code 201 Reading Notes
+  - __Code 201 Reading Notes__
 
 - Code 301
 
