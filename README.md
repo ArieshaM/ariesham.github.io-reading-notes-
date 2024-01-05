@@ -1,19 +1,21 @@
-# Reading-notes
-# About Me
-Hello! I am Ariesha Murray. I currently reside in Oklahoma City and am a student with Code Fellows. This website will contain all that I have done and or learned during my time with Code Fellows 
-## Journal Entries
-[Growth Mindset](https://github.com/ArieshaM/reading-notes/commit/d40a5792c8cbece361a6a380d79db74e57acc37b#commitcomment-134886333)
+# Learning the Software Life!
 
-[Mastering Markdown](https://github.com/ArieshaM/reading-notes/commit/67749fd16dc5819e2de8d06a07ae07b763fa9e45#r135535787)
+ I am Ariesha Murray. I currently reside in Oklahoma City and this is my journey to becoming a Full-Stack web developer.
 
-[The Coder's Computer](https://github.com/ArieshaM/reading-notes/blob/main/the%20coders%20computer.md)
+As a student with Code Fellows, I am excited to gain new skills and perhaps become a great software developer.
 
-# Code  102
-Intro to Software Development
-# Code 201
-Foundations of Software Development
-# Code 301
-Intermediate Software Development
-# 401
-Advanced Software Development
-More about me at my Github profile 
+This website will contain all that I have done and or learned during my time with Code Fellows.
+
+## Table of Contents
+
+- Code 102
+
+  - Code 102 Reading Notes
+  
+- Code 201
+
+  - Code 201 Reading Notes
+
+-Code 301
+
+-Code 401
