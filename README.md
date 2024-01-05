@@ -1,3 +1,4 @@
+
 # Learning the Software Life!
 
  I am Ariesha Murray. I currently reside in Oklahoma City and this is my journey to becoming a Full-Stack web developer.
@@ -16,6 +17,6 @@ This website will contain all that I have done and or learned during my time wit
 
   - Code 201 Reading Notes
 
--Code 301
+- Code 301
 
--Code 401
+- Code 401

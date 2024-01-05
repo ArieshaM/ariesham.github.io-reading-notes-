@@ -11,7 +11,7 @@
 4. mkdir- creates a directory at the specified absolute path
 5. touch- creates a new file
 
-# Creating a New File
+# Creating a New File.
 ## Use the following Commands to create a new file
 1. cd projects
 2. mkdir new-project
