@@ -1,7 +1,6 @@
+# About Me
 
-# Learning the Software Life!
-
- I am Ariesha Murray. I currently reside in Oklahoma City and this is my journey to becoming a Full-Stack web developer.
+Hello! I am Ariesha Murray. I currently reside in Oklahoma City and am a student with Code Fellows. This website will contain all that I have done and or learned during my time with Code Fellows
 
 As a student with Code Fellows, I am excited to gain new skills and perhaps become a great software developer.
 
@@ -26,8 +25,12 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 - [Mastering Markdown](https://github.com/ArieshaM/reading-notes/commit/67749fd16dc5819e2de8d06a07ae07b763fa9e45#r135535787)
 - [The Coder'sComputer](https://github.com/ArieshaM/reading-notes/commit/b9401fde98e78a947d2a0f002e4551222f981030#commitcomment-136301760)
 - [Revisioning and the Cloud (Git)](<hhttps://github.com/ArieshaM/reading-notes/commit/89eb6dffa2829689f227fe4bc2ca29a9324c766d#commitcomment-136399345>)
+<<<<<<< HEAD
 
 - [Structuring HTML](Users/dr.arieshamurray/projects/courses/code-102/reading-notes/index.html/102-Class04.html)
+=======
+- [Structuring HTML] () 
+>>>>>>> refs/remotes/origin/main
 - Upcoming Class 5
 - Upcoming Class 6
 - Upcoming Class 7
