@@ -1,30 +1,7 @@
-<<<<<<< HEAD
-# Reading-notes
 # About Me
+
 Hello! I am Ariesha Murray. I currently reside in Oklahoma City and am a student with Code Fellows. This website will contain all that I have done and or learned during my time with Code Fellows
 
-## Journal Entries
-
-[Growth Mindset](https://github.com/ArieshaM/reading-notes/commit/d40a5792c8cbece361a6a380d79db74e57acc37b#commitcomment-134886333)
-=======
->>>>>>> refs/remotes/origin/main
-
-# Learning the Software Life!
-
- I am Ariesha Murray. I currently reside in Oklahoma City and this is my journey to becoming a Full-Stack web developer.
-
-<<<<<<< HEAD
-# Code  102
-Intro to Software Development
-# Code 201
-Foundations of Software Development
-# Code 301
-Intermediate Software Development
-# 401
-Advanced Software Development
-More about me at my Github profile
- 
-=======
 As a student with Code Fellows, I am excited to gain new skills and perhaps become a great software developer.
 
 This website will contain all that I have done and or learned during my time with Code Fellows.
@@ -48,8 +25,7 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 - [Mastering Markdown](https://github.com/ArieshaM/reading-notes/commit/67749fd16dc5819e2de8d06a07ae07b763fa9e45#r135535787)
 - [The Coder'sComputer](https://github.com/ArieshaM/reading-notes/commit/b9401fde98e78a947d2a0f002e4551222f981030#commitcomment-136301760)
 - [Revisioning and the Cloud (Git)](<hhttps://github.com/ArieshaM/reading-notes/commit/89eb6dffa2829689f227fe4bc2ca29a9324c766d#commitcomment-136399345>)
-
-- Structuring HTML
+- [Structuring HTML] () 
 - Upcoming Class 5
 - Upcoming Class 6
 - Upcoming Class 7
@@ -76,4 +52,3 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 ## Code 301
 
 ## Code 401
->>>>>>> refs/remotes/origin/main
