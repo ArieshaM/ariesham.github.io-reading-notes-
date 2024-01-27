@@ -7,6 +7,7 @@ As a student with Code Fellows, I am excited to gain new skills and perhaps beco
 This website will contain all that I have done and or learned during my time with Code Fellows.
 
 ## Growth Mindset
+
 Being teachable throughout life is my definition of having a Growth Mindset.
 I choose to not allow thoughts of negativity or doubt interefer with the possibilities of doing great things. Having a growth mindset has changed the way that I think, talk, and perceive my life.
 
@@ -25,7 +26,8 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 - [Mastering Markdown](https://github.com/ArieshaM/reading-notes/commit/67749fd16dc5819e2de8d06a07ae07b763fa9e45#r135535787)
 - [The Coder'sComputer](https://github.com/ArieshaM/reading-notes/commit/b9401fde98e78a947d2a0f002e4551222f981030#commitcomment-136301760)
 - [Revisioning and the Cloud(Git)](https://github.com/ArieshaM/reading-notes/commit/89eb6dffa2829689f227fe4bc2ca29a9324c766d#commitcomment-136399345)
-- [Structuring HTML]("http://127.0.0.1:5500/102%20Class04.html)  
+- <a href="http://127.0.0.1:5500/102%20Class04.html"> Restructing HTML
+</a>  
 - Upcoming Class 5
 - Upcoming Class 6
 - Upcoming Class 7
