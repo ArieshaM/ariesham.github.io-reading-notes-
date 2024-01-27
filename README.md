@@ -28,7 +28,7 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 - [Revisioning and the Cloud(Git)](https://github.com/ArieshaM/reading-notes/commit/89eb6dffa2829689f227fe4bc2ca29a9324c766d#commitcomment-136399345)
 - <a href="http://127.0.0.1:5500/102%20Class04.html"> Restructing HTML
 </a>  
-- Upcoming Class 5
+- <a href="http://127.0.0.1:5500/102-Class05.html"> CSS</a>
 - Upcoming Class 6
 - Upcoming Class 7
 - Upcoming Class 8
