@@ -25,16 +25,8 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 - [Mastering Markdown](https://github.com/ArieshaM/reading-notes/commit/67749fd16dc5819e2de8d06a07ae07b763fa9e45#r135535787)
 - [The Coder'sComputer](https://github.com/ArieshaM/reading-notes/commit/b9401fde98e78a947d2a0f002e4551222f981030#commitcomment-136301760)
 - [Revisioning and the Cloud (Git)](<hhttps://github.com/ArieshaM/reading-notes/commit/89eb6dffa2829689f227fe4bc2ca29a9324c766d#commitcomment-136399345>)
-<<<<<<< HEAD
-- [Structuring HTML](file:///Users/dr.arieshamurray/projects/reading-notes/102%20Class04.html)  
-=======
-<<<<<<< HEAD
 
-- [Structuring HTML](Users/dr.arieshamurray/projects/courses/code-102/reading-notes/index.html/102-Class04.html)
-=======
-- [Structuring HTML] () 
->>>>>>> refs/remotes/origin/main
->>>>>>> refs/remotes/origin/main
+- [Structuring HTML](file:///Users/dr.arieshamurray/projects/reading-notes/102%20Class04.html)  
 - Upcoming Class 5
 - Upcoming Class 6
 - Upcoming Class 7
