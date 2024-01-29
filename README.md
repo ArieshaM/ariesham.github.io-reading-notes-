@@ -33,7 +33,7 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 
 - <a href="http://127.0.0.1:5500/102-Class05.html"> CSS</a>
 
--[Java Script](https://github.com/ArieshaM/reading-notes/blob/a4670e57d5498ce6081926d9f164171392df788b/102-Class06.md)
+- [Java Script](https://github.com/ArieshaM/reading-notes/blob/a4670e57d5498ce6081926d9f164171392df788b/102-Class06.md)
 
 - Upcoming Class 7
 - Upcoming Class 8
