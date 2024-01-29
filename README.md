@@ -24,13 +24,17 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 ## Code 102 Reading Notes
 
 - [Mastering Markdown](https://github.com/ArieshaM/reading-notes/commit/67749fd16dc5819e2de8d06a07ae07b763fa9e45#r135535787)
+
 - [The Coder'sComputer](https://github.com/ArieshaM/reading-notes/commit/b9401fde98e78a947d2a0f002e4551222f981030#commitcomment-136301760)
+
 - [Revisioning and the Cloud(Git)](https://github.com/ArieshaM/reading-notes/commit/89eb6dffa2829689f227fe4bc2ca29a9324c766d#commitcomment-136399345)
 - <a href="http://127.0.0.1:5500/102%20Class04.html"> Restructing HTML
 </a>  
+
 - <a href="http://127.0.0.1:5500/102-Class05.html"> CSS</a>
 
--[Java Script](https://ariesham.github.io/reading-notes/102-Class06)
+-[Java Script](https://github.com/ArieshaM/reading-notes/blob/a4670e57d5498ce6081926d9f164171392df788b/102-Class06.md)
+
 - Upcoming Class 7
 - Upcoming Class 8
   
