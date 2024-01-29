@@ -29,7 +29,8 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 - <a href="http://127.0.0.1:5500/102%20Class04.html"> Restructing HTML
 </a>  
 - <a href="http://127.0.0.1:5500/102-Class05.html"> CSS</a>
-- [Java Script] (https://https://ariesham.github.io/reading-notes/102-Class06)
+
+-[Java Script](https://ariesham.github.io/reading-notes/102-Class06)
 - Upcoming Class 7
 - Upcoming Class 8
   
