@@ -35,7 +35,7 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 
 - [Java Script](https://github.com/ArieshaM/reading-notes/blob/a4670e57d5498ce6081926d9f164171392df788b/102-Class06.md)
 
-- Upcoming Class 7
+- [JaveScriptPart2] ()
 - Upcoming Class 8
   
 ## Code 201 Reading Notes
