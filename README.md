@@ -37,11 +37,13 @@ I choose to not allow thoughts of negativity or doubt interefer with the possibi
 
 - [Java Script Part 2](https://github.com/ArieshaM/reading-notes/blob/2deee935567c03721d8f3502ebc1a02d4d97ac24/Course%20201.html/102-Class07.md)
 
-- [OperatorsandLoops] ()
+- [Operators and Loops](https://github.com/ArieshaM/reading-notes/blob/56d6a30f96775490e8f2134372994410a73ef1dc/102-Class08.md)
+
   
 ## Code 201 Reading Notes
 
 - Up Coming Class 1
+
 - Up Coming Class 2
 - Up Coming Class 3
 - Up Coming Class 4
