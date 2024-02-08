@@ -1,7 +1,7 @@
 # Reading Notes
 
 ## About
-This site discusses the foundations of Software development. Get ready to level up in your process of becoming an epic software development
+This site discusses the foundations of Software Development. **Get ready** to level up in your process of becoming an **Epic** Software Developer.
 
 ![coding](christina-wocintechchat-com-L85a1k-XqH8-unsplash.jpg)
 
