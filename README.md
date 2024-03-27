@@ -5,7 +5,7 @@ This site discusses the foundations of Software Development. **Get ready** to le
 
 ![coding](christina-wocintechchat-com-L85a1k-XqH8-unsplash.jpg)
 
-## **Code 102** - Intro to Software Development
+## **Code 102** - Intro to Software Development 
 
 ## **Code 201** - Foundations of Software Development
 
